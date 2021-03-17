@@ -1,0 +1,12 @@
+.header {
+    /* background-color: #6c757d; */
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.logo {
+    background-color: #ffffff;
+    max-height: 30px;
+    max-width: 30px;
+}
